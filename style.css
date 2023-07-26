@@ -1,2 +1,4 @@
- header{background-color: rgb(141, 50, 184);}}
- COLOR :-moz-only-whitespace
+ header{background-color: rgb(99, 8, 141);}}
+ 
+ COLOR ::-webkit-search-results-decoration
+ header{background-color: aqua;}
