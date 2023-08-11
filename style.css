@@ -1,2 +1,8 @@
-header{background-color: rgb(8, 8, 245);
-    color:rgba(245, 245, 245, 0.877);}
+:root{
+ --cor-de-fundo: #1dccb5;
+}
+
+body {
+ background-color:  var(--cor-de-fundo);
+ 
+}
