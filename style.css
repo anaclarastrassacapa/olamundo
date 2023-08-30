@@ -1,4 +1,13 @@
 header{background-color: rgb(235, 67, 226);
 }
+.cabecalho-imagem{
+background-color: blanchedalmond;
+color: white;
+display: flex;
+}
+
+
+
 
 .cabecalho-imagem{width: 30%;}
+
