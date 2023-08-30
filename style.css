@@ -4,6 +4,7 @@ header{background-color: rgb(235, 67, 226);
 background-color: blanchedalmond;
 color: white;
 display: flex;
+justify-content: space-around;
 }
 
 
